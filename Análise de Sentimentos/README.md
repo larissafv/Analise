@@ -6,7 +6,7 @@ O arquivo de Análise de Sentimentos pelo IBM Tone Analyser foi feito com base n
 O objetivo desse Notebook foi estudar as possibilidades de se utilizar da ferramenta **IBM Tone Analyser** para a análise de sentimentos dos tweets coletados. Para esse fim, inicialmente foi feita uma limpeza nos textos. Logo após, foram selecionados 2.500 tweets aleatoriamente, uma vez que é a quantidade máxima aceita para o uso gratuito. As tabelas resultantes desses processos podem ser observadas no arquivo [Análise de Sentimento IBM Tone Analyser.ipynb](https://github.com/CDA-EPCWeb/Analise/blob/master/An%C3%A1lise%20de%20Sentimentos/An%C3%A1lise%20de%20Sentimento%20IBM%20Tone%20Analyser.ipynb).
 
 ## Execução do Código
-Para executar o código, o arquivo *5k_origin.json* deve estar na mesma pasta que o Análise de Sentimento IBM Tone Analyser.ipynb.
+Para executar o código, o arquivo *5k_origin.json* deve estar na mesma pasta que o *Análise de Sentimento IBM Tone Analyser.ipynb*.
 
 Ademais, o usuário deve criar uma conta no [IBM Cloud](https://cloud.ibm.com/registration?target=catalog%3fcategory=watson&cm_mmc=Earned-_-Watson+Core+-+Platform-_-WW_WW-_-intercom&cm_mmca1=000000OF&cm_mmca2=10000409&).
 
