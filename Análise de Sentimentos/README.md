@@ -7,6 +7,7 @@ O objetivo desse Notebook foi estudar as possibilidades de se utilizar da ferram
 
 ## Execução do Código
 Para executar o código, o arquivo 5k_origin.json deve estar na mesma pasta que o Análise de Sentimento IBM Tone Analyser.ipynb.
+
 Ademais, o usuário deve criar uma conta no [IBM Cloud](https://cloud.ibm.com/registration?target=catalog%3fcategory=watson&cm_mmc=Earned-_-Watson+Core+-+Platform-_-WW_WW-_-intercom&cm_mmca1=000000OF&cm_mmca2=10000409&).
 
 <img src="https://i.imgur.com/E9aqhQJ.png">
@@ -17,4 +18,5 @@ Depois disso, é necessário buscar pelo serviço Tone Analyser e se cadastrar. 
     
 ## Resultado
 Após a análise da ferramenta, foi concluído que o **IBM Tone Analyser** não é adequado para a finalidade do projeto, uma vez que os tweets utilizados estão em português brasileiro e essa ferramenta, atualmente, só funciona para o inglês.
+
 A possibilidade de se traduzir os textos para o inglês foi considerada, mas logo descartada, já que poderia haver perda de informações que influenciariam nos resultados da análise de sentimento.
