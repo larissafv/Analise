@@ -18,8 +18,8 @@ dados = pd.read_json('nomedoarquivo.json', convert_dates = False, lines = True, 
 ```
 
 ## Execução do Código
-Para executar o código, os arquivos a serem lidos pelo código devem estar na mesma pasta que o Notebook em questão.
-    
+Para executar o código, os arquivos a serem lidos devem estar na mesma pasta que o Notebook em questão.
+
 ## Resultado
-Após a execução do código, os resultados serão apresentados em tabelas ou texto.
+Após a execução do código, os resultados serão registrados em arquivos csv.
 Vale ressaltar que nem todos os arquivos por nós utilizados contêm uma quantidade suficiente de dados para uma análise mais apropriada.
